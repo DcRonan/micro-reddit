@@ -10,6 +10,14 @@
   },
   "version": "0.1.0",
   "devDependencies": {
+    "stylelint": "^13.3.3",
+    "stylelint-config-standard": "^20.0.0",
+    "stylelint-csstree-validator": "^1.8.0",
+    "stylelint-scss": "^3.17.2",
     "webpack-dev-server": "^3.11.0"
+  },
+  "scripts": {
+    "test": "npm run stylelint && echo \"Passed ✅✅ No errors! 😁😁\"",
+    "stylelint": "npx stylelint **/*.{css,scss}"
   }
 }
