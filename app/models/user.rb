@@ -3,4 +3,5 @@ class User < ApplicationRecord
   # validates length: { minimum: 8, too_short: "%{count} characters is too short, please enter a minimum of 8" }
 
   has_many :posts
+  has_many :comments
 end
