@@ -5,9 +5,8 @@
  
 | Contents        |
 | ------------- |
-| [Built With](#built-with) |
-| [Live Demo](#live-demo) |
-| [Run Tests](#run-tests) |
+| [Built With](#built-with-🛠) |
+| [Install](#install-⏳) |
 | [Authors](#authors) | 
 | [License](#license) | 
 
@@ -15,7 +14,7 @@
 
 I have built this project to function a working Reddit app which lets you create users, posts and comments which are unique to the users. Please follow below to get started.
 
-## Built With
+## Built With 🛠
 ```
 - Ruby: 2.6.3
 - Ruby on Rails: 6.0.3.4
