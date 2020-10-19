@@ -5,8 +5,8 @@
  
 | Contents        |
 | ------------- |
-| [Built With](#built-with-🛠) |
-| [Install](#install-⏳) |
+| [Built With](#built-with) |
+| [Install](#install) |
 | [Authors](#authors) | 
 | [License](#license) | 
 
