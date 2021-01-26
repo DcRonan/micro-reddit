@@ -1,6 +1,6 @@
 # Reddit App ![img](./app/assets/images/reddit-2.svg)
 ![Microverse](https://img.shields.io/badge/-Microverse-6F23FF?style=for-the-badge)
-> The aim of this project was to create working Reddit app within the command terminal.
+> The aim of this project was to create a working Reddit app within the command terminal.
 ## Library Directory 📙
  
 | Contents        |
@@ -29,7 +29,7 @@ I have built this project to function a working Reddit app which lets you create
 1. - [ ] Open your `Terminal`
 2. - [ ] Navigate to the directory where you will like to install the repo by running `cd FOLDER-NAME`
 3. - [ ] Run `git clone git@github.com:DcRonan/micro-reddit.git` to download <b>or</b> you can download using `HTTPS` by running `git clone https://github.com/DcRonan/micro-reddit.git` in the terminal
-4. - [ ] Run `cd micro-reddit` to enter directory
+4. - [ ] Run `cd micro-reddit` to enter the directory
 5. - [ ] Run `bundle install` to install Ruby Gems (<b>hint:</b> Mac users, if not working then run `sudo bundle install`)
 6. - [ ] Run `rails db:migrate` to migrate your database on your local machine
 7. - [ ] Run `rails console` to get started
@@ -46,7 +46,7 @@ I have built this project to function a working Reddit app which lets you create
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page](enter issues url here).
+Feel free to check the [issues page](https://github.com/DcRonan/micro-reddit/issues).
 
 ### Show your support
 
